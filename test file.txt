@@ -4,3 +4,4 @@ branch protection and merge rule
 
 asd
 Do not allow bypassing the above settings
+asd
