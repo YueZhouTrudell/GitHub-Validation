@@ -1,2 +1,3 @@
 This is a sample file fo the Branch protection and Merge Rules task for the validation protocol with a unique identifier: TMI-PRO-VSFT-0064.
 This is a test PR
+
